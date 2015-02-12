@@ -37,7 +37,7 @@
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+                color: #fefefe;
 	}
 
 	h1,h2,h3,h4,h5,h6
@@ -771,15 +771,15 @@
 
 			#main > section.two
 			{
-				background-color: #f5fafa;
+				background-color: yellowgreen;
 			}
 		
 			#main > section.three
 			{
-				background-color: #ecf1f1;
+                            background-color: #fd6602;
 			}
 		
 			#main > section.four
 			{
-				background-color: #e8edec;
+                            background-color: #35ba0b;
 			}
